@@ -141,6 +141,7 @@ pip install tqdm joblib Pillow rich
    ```
    data/caltech-101/
    ```
+   Make sure to delete the background class named "BACKGROUND_Google".
 
 2. The notebook auto-detects your project directory from `os.path.expanduser("~")`. Ensure the folder is named `SHBT261_miniproject1` in your home directory, or update `PROJECT_DIR` in Cell 2:
    ```python
