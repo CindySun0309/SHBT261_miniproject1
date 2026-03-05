@@ -1,4 +1,4 @@
-# SHBT261 Mini Project 1 — Image Classification on Caltech-101
+# Image Classification on Caltech-101
 
 **Course:** SHBT 261 AI in Medicine  
 **Author:** Cindy Sun  
